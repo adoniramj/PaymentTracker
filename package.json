@@ -1,0 +1,8 @@
+{
+  "name": "PaymentTracker",
+  "version": "1.0.0",
+  "description": "A program to track payments",
+  "main": "index.js",
+  "author": "adoniramj <adoniramjvargas@gmail.com>",
+  "license": "MIT"
+}
